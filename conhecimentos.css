@@ -1,0 +1,41 @@
+@font-face {
+    font-family: League Spartan ;
+    src: url('leaguespartan-bold.eot');
+    src: url('leaguespartan-bold.eot?#iefix') format('embedded-opentype'),
+         url('leaguespartan-bold.woff2') format('woff2'),
+         url('leaguespartan-bold.woff') format('woff'),
+         url('leaguespartan-bold.ttf') format('truetype'),
+         url('leaguespartan-bold.svg#league_spartanbold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+
+}
+#falas{
+    font: 1.2em League Spartan;
+    
+        display: flex;
+        align-items: center;
+        justify-content:space-between;
+        flex-direction: column;
+        margin-bottom: 80px;
+        text-align: center;
+        text-decoration:none
+    
+
+}
+.dino{
+    font: 1.5em League Spartan;
+    
+        display: flex;
+        align-items: center;
+        justify-content:space-between;
+        flex-direction: column;
+        margin-bottom: 80px;
+        text-align: center;
+        text-decoration:none
+    
+
+}
+img#santana{
+    margin-right: 110px;
+}

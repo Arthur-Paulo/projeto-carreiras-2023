@@ -1,0 +1,46 @@
+
+div{
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+    flex-direction:row;
+    margin-top: 50px;
+    position:auto;
+}
+
+    
+    @font-face {
+        font-family: League Spartan ;
+        src: url('leaguespartan-bold.eot');
+        src: url('leaguespartan-bold.eot?#iefix') format('embedded-opentype'),
+             url('leaguespartan-bold.woff2') format('woff2'),
+             url('leaguespartan-bold.woff') format('woff'),
+             url('leaguespartan-bold.ttf') format('truetype'),
+             url('leaguespartan-bold.svg#league_spartanbold') format('svg');
+        font-weight: bold;
+        font-style: normal;
+    
+    }
+    #intro{
+        display: flex;
+        align-items: center;
+        justify-content:space-around;
+        flex-direction:row;
+        text-align:center;
+    }
+    .digite{
+        display: flex;
+        align-items:center;
+        justify-content:space-around;
+        flex-direction:row;
+        width:375px;
+        display:block;
+        margin-left: 450px;
+        font-size: large;
+    }
+    
+    
+    
+    
+
+   
